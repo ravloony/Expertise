@@ -1,0 +1,22 @@
+This is a small web app I am working on.
+
+It is based on the idea, which has come up on various blogs, that to become a master in a given subject, be it piano or chess, or computer science, one should spend 10000 hours practicing.
+
+This web app simply counts hours of practice by subject.
+
+Features:
+=========
+
+Implemented:
+------------
+
+- Track different subjects
+- Count hours
+
+Not Implemented:
+---------------
+
+- Users
+- Cool vanity badges (as in 1024 hrs -> "kilobadge")
+- Different statuses (currently only "Beginner" or "World class")
+- ...
